@@ -17,7 +17,7 @@ from Data_structure.LinkedList_Double_Circular import LinkedList_Double_Circular
 from Data_structure.ListNode import ListNode
 
 
-class merge_sort_k_way:
+class Merge_Sort_K_Way:
 	def __init__(self):
 		pass
 

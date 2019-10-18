@@ -21,7 +21,7 @@ from Data_structure.LinkedList_Double_Circular import LinkedList_Double_Circular
 from Data_structure.ListNode import ListNode
 
 
-class merge_sort:
+class Merge_Sort:
 	def __init__(self, _list: LinkedList_Double_Circular):
 		self.__anchor = _list.get_anchor()
 
